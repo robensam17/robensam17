@@ -8,8 +8,8 @@ dice();
 console.log(randomNumber1);
 
 function dice() {
-   document.getElementById("a").src = "file:///C:/Users/SasRob/Documents/Dicee%20Challenge%20-%20Starting%20Files/images/dice"+randomNumber1+".png";
-  document.getElementById("b").src = "file:///C:/Users/SasRob/Documents/Dicee%20Challenge%20-%20Starting%20Files/images/dice"+randomNumber2+".png";
+   document.getElementById("a").src = "images/dice"+randomNumber1+".png";
+  document.getElementById("b").src = "images/dice"+randomNumber2+".png";
 
 }
 
