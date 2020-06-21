@@ -1,3 +1,15 @@
+
+button {
+  margin-top: 33%;
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 3rem;
+  color: #4ECCA3;
+  background-color: blue;
+}
+
+
 .container {
   width: 70%;
   margin: auto;
@@ -40,15 +52,7 @@ footer {
 
 }
 
-button {
-  margin-top: 33%;
-  margin: 30px;
-  font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
-  font-size: 3rem;
-  color: #4ECCA3;
-  background-color: blue;
-}
+
 
 div2 {
   text-align: center;
